@@ -41,9 +41,6 @@ I build production-grade AI systems — agentic workflows, LLM-powered automatio
 Intelligent monitoring system that autonomously detects anomalies (downtime, broken links, content drift, schema errors) and creates GitHub issues via API on scheduled cycles.
 `Python` `FastAPI` `LangChain` `n8n` `Streamlit` `SQLite` `GitHub API`
 
-### 🧠 SEO Automation Agent — Programmatic SEO & Content Pipeline
-Multi-agent system automating the full SEO content lifecycle: keyword research → SERP analysis → content brief → AI draft → CMS publish. Reduced production cycle from 5 days to 6 hours per article.
-`Python` `LangChain` `n8n` `OpenAI API` `Ahrefs API` `GSC API` `Supabase` `FastAPI`
 
 ### 📊 Titanic Survival Prediction
 ML classification pipeline with feature engineering and hyperparameter tuning. Achieved 81% accuracy with Logistic Regression and Random Forest models.
